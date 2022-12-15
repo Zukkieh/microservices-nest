@@ -2,7 +2,7 @@ import { Content } from './content';
 
 describe('Notification content', () => {
   test('should be able to create a notification content', () => {
-    const content = new Content('You received a new notification');
+    const content = new Content('You received a new notification!');
 
     expect(content).toBeTruthy();
   });
