@@ -1,5 +1,10 @@
 {
-    "material-icon-theme.activeIconPack": "nest",
-    "workbench.editor.showIcons": true,
-    "workbench.iconTheme": "material-icon-theme"
+  "material-icon-theme.activeIconPack": "nest",
+  "workbench.editor.showIcons": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
 }
